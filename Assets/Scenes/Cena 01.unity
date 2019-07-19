@@ -477,6 +477,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59e94fb810f1944d389bd363113a5944, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  massa: 1
+  forca_Max: 0.5
+  velocidade_Max: 1
 --- !u!1 &1836459093
 GameObject:
   m_ObjectHideFlags: 0
